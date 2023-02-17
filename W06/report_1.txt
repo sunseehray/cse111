@@ -1,0 +1,44 @@
+First Report for a Student Chosen Project
+
+    (Please report on your progress toward completing your chosen
+    project by answering the following questions.)
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2022-12-07      1       researching by reading articles and watching applicable videos
+2022-12-07      2       writing code for my project and debugging
+2022-12-09      1       reviewed videos on how to code
+2022-12-09      1       writing test functions
+
+2. Write the names of the functions in your project.
+    main, write_file, append_list, scheduled_list, seven_days, filter_list, read_compound_list, print_list
+
+3. Answer the following questions about the functions in your project.
+    a. Does each function perform a single task?
+        Yes
+
+    b. Does the name of each function describe or convey the task?
+        Yes
+    c. Do most of your project functions have parameters and return a result?
+        Yes
+    If you answered "no" to any of the above three questions, what are
+    you planning to change in your project?
+
+
+4. Write the names of the test functions that you wrote to test your
+program functions.
+    test_write_file, test_append_list

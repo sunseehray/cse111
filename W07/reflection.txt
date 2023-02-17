@@ -1,0 +1,25 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I remember the tkinter exercises. Those definitely taught me about functions. 
+By calling in functions that do circles, one can easily make clouds by just changing parameters.
+
+2. In your judgment, what is the value of test functions?
+
+Test functions are helpful to make sure that your code is working properly. 
+This helps you debug your code as well in case your tests fail. 
+The results will show you what went wrong. No need to examine a lot of lines.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+My process for troubleshooting and fixing a program is to check for squiggly lines, 
+run the program and read the error message, and create test functions. 
+What I can do to improve is to create a process flow first,
+so I don't just randomly plug in code that will be confusing to debug.
+
+
+
